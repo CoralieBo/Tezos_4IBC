@@ -15,12 +15,9 @@ This project contain a Vesting contract (locked tokens) and his tests.
 - `kill entrypoint` *retrieve funds, and pay beneficiaries (on time elpased basis).*
 ## Installation
 
-Install my-project with npm
+Install ligo to run this project
 
-```bash
-  npm install my-project
-  cd my-project
-```
+[Ligo compiler installation](https://ligolang.org/docs/intro/installation?lang=cameligo)
     
 ## Environment Variables
 
