@@ -18,6 +18,11 @@ This project contain a Vesting contract (locked tokens) and his tests.
 Install ligo to run this project
 
 [Ligo compiler installation](https://ligolang.org/docs/intro/installation?lang=cameligo)
+
+To install dependencies run :
+```bash
+make install
+```
     
 ## Environment Variables
 
